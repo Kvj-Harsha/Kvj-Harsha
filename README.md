@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Dedicating my time to Web development, NextJs, Machine Learning, and cloud computing.<br>🚀 Tech enthusiast on a journey to dive deeper into the world of machine learning.<br>📚 Currently mastering Python and backend development for web applications, fueling my passion for innovation.<br>🌟 Excited about the endless possibilities that technology brings to solve real-world problems.🛠️ Dedicating my time to Web development, NextJs, Machine Learning, and cloud computing.<br>
+🛠️ Dedicating my time to Web development, NextJs, Machine Learning, and cloud computing.<br>🚀 Tech enthusiast on a journey to dive deeper into the world of machine learning.<br>📚 Currently mastering Python and backend development for web applications, fueling my passion for innovation.<br>🌟 Excited about the endless possibilities that technology brings to solve real-world problems.<br>
 
 
 ## 🌐 Socials:
