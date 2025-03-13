@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kvj-Harsha&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kvj-Harsha&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kvj-Harsha&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kvj-Harsha&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kvj-Harsha&icon=0&color=1)](https://visitcount.itsvg.in)
