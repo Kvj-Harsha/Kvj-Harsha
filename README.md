@@ -14,9 +14,9 @@ Previously, I served as PR Head for student initiatives, where I led communicati
 
 <div align="center">
 
-[![LinkedIn](https://res.cloudinary.com/dauquyghy/image/upload/v1748777022/linkedin_twjp6v.png)](https://www.linkedin.com/in/yourusername/)
-[![LeetCode](https://res.cloudinary.com/dauquyghy/image/upload/v1748777022/leetcode_r6e8ae.png)](https://leetcode.com/kvjharsha/)
-[![Hugging Face](https://res.cloudinary.com/dauquyghy/image/upload/v1748777021/huggingface_ue8rja.png)](https://huggingface.co/spaces/yourusername)
+[![LinkedIn](https://res.cloudinary.com/dauquyghy/image/upload/v1748777022/linkedin_twjp6v.png)](https://www.linkedin.com/in/kvjharsha/)
+[![LeetCode](https://res.cloudinary.com/dauquyghy/image/upload/v1748777022/leetcode_r6e8ae.png)](https://leetcode.com/u/cs23b1034/)
+[![Hugging Face](https://res.cloudinary.com/dauquyghy/image/upload/v1748777021/huggingface_ue8rja.png)](https://huggingface.co/callmekvj)
 [![GitHub](https://res.cloudinary.com/dauquyghy/image/upload/v1748777022/github_jrlc3v.png)](https://github.com/kvj-harsha)
 [![Microsoft Developer](https://res.cloudinary.com/dauquyghy/image/upload/v1748777022/microsoft_lk58k2.png)](https://learn.microsoft.com/en-us/users/kvjharsha/)
 [![Kaggle](https://res.cloudinary.com/dauquyghy/image/upload/v1748777022/kaggle_dq1rmb.png)](https://www.kaggle.com/callmekvj)
