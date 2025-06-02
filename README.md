@@ -41,6 +41,35 @@ Previously, I served as PR Head for student initiatives, where I led communicati
 
 </center>
 
+![Projects](https://res.cloudinary.com/dauquyghy/image/upload/v1748777250/5_g6shxd.png)
+
+## 🌸 Iris Classifier  
+A simple machine learning model trained on the classic [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) to classify flower species based on sepal and petal measurements. Implemented using Python and scikit-learn with a clean Jupyter Notebook workflow.  
+🔗 [View Repository](https://github.com/Kvj-Harsha/iris-classifier-app)
+
+---
+
+## ✈️ Flight Booking Agent — Groq x LLaMA 3 x LangGraph x Gradio  
+An intelligent flight assistant powered by **Groq's ultra-fast LLM acceleration** and **LLaMA 3 (8B)**. Built using **LangGraph** for modular agent flow and **Gradio** for an interactive UI. The agent handles itinerary queries, searches flights, and books tickets—all in natural language.  
+🔗 [View Repository](https://github.com/Kvj-Harsha/langgraph-groq-flight-booking-agent)
+
+---
+
+## 🌍 Azure Earthquake Data Pipeline  
+A real-time data engineering pipeline built on Microsoft Azure. It ingests earthquake data via a public API, processes it using Azure Data Factory and Databricks (following the Medallion Architecture), and stores it in Synapse Analytics for dashboarding and alerting.  
+🔗 [View Repository](https://github.com/Kvj-Harsha/earthquakepipeline)
+
+---
+
+## 🌱 EcoCarb: Carbon Emission Prediction System  
+🏆 **Special Mention – National Hackathon**  
+EcoCarb is an AI-powered carbon footprint predictor for the transportation sector. It uses ML models to estimate CO₂ emissions from travel data, enabling users and policymakers to make eco-conscious decisions. Scalable, data-driven, and sustainability-focused.  
+🔗 [View Repository](https://github.com/Kvj-Harsha/ecocarb)
+
+---
+
+> 💡 *Feel free to explore, clone, or contribute to any of these projects!*
+
 
 ![](https://res.cloudinary.com/dauquyghy/image/upload/v1748776717/githubstats_bad9bm.png)
 
