@@ -41,7 +41,7 @@ Previously, I served as PR Head for student initiatives, where I led communicati
 
 </center>
 
-![Projects](https://res.cloudinary.com/dauquyghy/image/upload/v1748777250/5_g6shxd.png)
+## ‎ ![Projects](https://res.cloudinary.com/dauquyghy/image/upload/v1748777250/5_g6shxd.png)
 
 ## 🌸 Iris Classifier  
 A simple machine learning model trained on the classic [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) to classify flower species based on sepal and petal measurements. Implemented using Python and scikit-learn with a clean Jupyter Notebook workflow.  
