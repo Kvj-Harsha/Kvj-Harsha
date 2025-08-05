@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm K V Jaya Harsha a second-year undergraduate at IIIT Raichur with a strong interest in data engineering, MLOps, and scalable machine learning systems. I work at the intersection of cloud platforms, modern data pipelines, and AI workflows.
+Hi, I'm K V Jaya Harsha a third-year undergraduate at IIIT Raichur with a strong interest in data engineering, MLOps, and scalable machine learning systems. I work at the intersection of cloud platforms, modern data pipelines, and AI workflows.
 
 Currently, I’m focused on building production-grade ML pipelines using Azure and Databricks, applying best practices in modular design, monitoring, and orchestration. I’m also involved in full-stack web development and contribute to open-source projects at VISWAM AI.
 
