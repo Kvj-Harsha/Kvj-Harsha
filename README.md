@@ -2,13 +2,16 @@
 
 ## About Me
 
-Hi, I'm K V Jaya Harsha a third-year undergraduate at IIIT Raichur with a strong interest in data engineering, MLOps, and scalable machine learning systems. I work at the intersection of cloud platforms, modern data pipelines, and AI workflows.
+Hi, I'm **K V Jaya Harsha**, a third-year undergraduate at **IIIT Raichur** with a strong interest in **Applied Artificial Intelligence, Machine Learning, and Research & Development (R&D)**. I work at the intersection of **model development, scalable ML systems, and real-world AI applications**, focusing on translating research ideas into production-ready solutions.
 
-Currently, I’m focused on building production-grade ML pipelines using Azure and Databricks, applying best practices in modular design, monitoring, and orchestration. I’m also involved in full-stack web development and contribute to open-source projects at VISWAM AI.
+Currently, I’m focused on designing and building **applied ML pipelines**, experimenting with deep learning architectures, and developing **end-to-end AI systems** that combine data engineering, model training, deployment, and monitoring. I emphasize **modular design, reproducibility, and experimentation-driven development** in every project.
 
-My work spans from ingestion and transformation in cloud-based environments to deployment and observability in ML systems. I value clean design, automation, and reproducibility in every layer of the data and ML lifecycle.
+I’m currently an **AI Developer Intern at VISWAM AI**, where I contribute to building practical AI tools and research-driven prototypes.
 
-Previously, I served as PR Head for student initiatives, where I led communications and outreach strategies.
+My work spans from **data acquisition and representation** to **model inference, evaluation, and observability** in ML systems. I value clean design, automation, and strong engineering foundations for applied research.
+
+Previously, I served as **PR Head for student initiatives**, where I led communications and outreach strategies.
+, where I led communications and outreach strategies.
 
 ![](https://res.cloudinary.com/dauquyghy/image/upload/v1748776718/profile_wzisea.png)
 
@@ -43,28 +46,45 @@ Previously, I served as PR Head for student initiatives, where I led communicati
 
 ## ‎ ![Projects](https://res.cloudinary.com/dauquyghy/image/upload/v1748777250/5_g6shxd.png)
 
-## 🌸 Iris Classifier  
-A simple machine learning model trained on the classic [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) to classify flower species based on sepal and petal measurements. Implemented using Python and scikit-learn with a clean Jupyter Notebook workflow.  
-🔗 [View Repository](https://github.com/Kvj-Harsha/iris-classifier-app)
+## 🧬 Peptide Fragment Ion Probability Prediction Using Graph Neural Networks  
+
+A deep learning framework for predicting **b-ion and y-ion fragment probabilities** directly from peptide sequences using **Graph Neural Networks (GNNs)**. Peptides are modeled as graphs where amino acids form nodes and peptide bonds define edges, enabling the model to capture both local and global structural dependencies.  
+
+Trained on the large-scale **Pep2Prob benchmark dataset**, the model outputs probability distributions across **78 fragment ion channels**. An interactive **Streamlit-based visualization platform** allows real-time inspection of predicted fragmentation patterns.  
+
+🔗 [Repo Link](https://github.com/Kvj-Harsha/ms2-peptide-fragmentation-using-GNN)  
 
 ---
 
-## ✈️ Flight Booking Agent — Groq x LLaMA 3 x LangGraph x Gradio  
-An intelligent flight assistant powered by **Groq's ultra-fast LLM acceleration** and **LLaMA 3 (8B)**. Built using **LangGraph** for modular agent flow and **Gradio** for an interactive UI. The agent handles itinerary queries, searches flights, and books tickets—all in natural language.  
-🔗 [View Repository](https://github.com/Kvj-Harsha/langgraph-groq-flight-booking-agent)
+## 🏥 GenAI-Powered Clinical Decision Support System (CDSS)  
+
+A **GenAI-powered Clinical Decision Support System** designed to assist clinicians by transforming multimodal, unstructured clinical data into **fact-grounded summaries** and **evidence-backed diagnostic insights**.  
+
+The system acts as an intelligent co-pilot that:  
+- Reduces cognitive overload  
+- Improves clinical context awareness  
+- Provides explainable, evidence-linked outputs  
+
+The core novelty lies in a hybrid reasoning architecture combining:  
+- Deterministic semantic rules  
+- Strong Large Language Model (LLM) reasoning  
+- Multi-source Retrieval-Augmented Generation (RAG)  
+- Agentic tool orchestration
+
+🔗 [Repo Link](https://github.com/Kvj-Harsha/agentic-clinical-DSS)  
 
 ---
 
-## 🌍 Azure Earthquake Data Pipeline  
-A real-time data engineering pipeline built on Microsoft Azure. It ingests earthquake data via a public API, processes it using Azure Data Factory and Databricks (following the Medallion Architecture), and stores it in Synapse Analytics for dashboarding and alerting.  
-🔗 [View Repository](https://github.com/Kvj-Harsha/earthquakepipeline)
+## 🌊 Hybrid-DIP-ViT-Underwater-Segmentation  
 
----
+A robust hybrid segmentation framework for **underwater imagery**, integrating:  
+- **DIP-based preprocessing** for enhancement  
+- **Multi-method segmentation** strategies  
+- **Vision Transformer (ViT)-driven patch refinement**  
 
-## 🌱 EcoCarb: Carbon Emission Prediction System  
-🏆 **Special Mention – National Hackathon**  
-EcoCarb is an AI-powered carbon footprint predictor for the transportation sector. It uses ML models to estimate CO₂ emissions from travel data, enabling users and policymakers to make eco-conscious decisions. Scalable, data-driven, and sustainability-focused.  
-🔗 [View Repository](https://github.com/Kvj-Harsha/ecocarb)
+The pipeline improves segmentation accuracy and robustness in challenging underwater environments with poor visibility and noise.  
+
+🔗 [Repo Link]([https://github.com/Kvj-Harsha/agentic-clinical-DSS](https://github.com/Kvj-Harsha/Hybrid-DIP-ViT-Underwater-Segmentation))  
 
 ---
 
