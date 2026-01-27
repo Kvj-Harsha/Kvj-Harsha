@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/dauquyghy/image/upload/v1748776427/intro.gif)
+![](https://res.cloudinary.com/dauquyghy/image/upload/v1769493005/final_rxrcsr.gif)
 
 ## About Me
 
@@ -84,7 +84,7 @@ A robust hybrid segmentation framework for **underwater imagery**, integrating:
 
 The pipeline improves segmentation accuracy and robustness in challenging underwater environments with poor visibility and noise.  
 
-🔗 [Repo Link]([https://github.com/Kvj-Harsha/agentic-clinical-DSS](https://github.com/Kvj-Harsha/Hybrid-DIP-ViT-Underwater-Segmentation))  
+🔗 [Repo Link](https://github.com/Kvj-Harsha/Hybrid-DIP-ViT-Underwater-Segmentation)
 
 ---
 
