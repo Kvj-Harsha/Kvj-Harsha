@@ -1,17 +1,10 @@
 ![](https://res.cloudinary.com/dauquyghy/image/upload/v1769493005/final_rxrcsr.gif)
 
-## About Me
+# About Me
 
-Hi, I'm **K V Jaya Harsha**, a third-year undergraduate at **IIIT Raichur** with a strong interest in **Applied Artificial Intelligence, Machine Learning, and Research & Development (R&D)**. I work at the intersection of **model development, scalable ML systems, and real-world AI applications**, focusing on translating research ideas into production-ready solutions.
+Hi, I’m **K V Jaya Harsha**, a third-year undergraduate at **IIIT Raichur** with a strong interest in **Applied Artificial Intelligence, Machine Learning, and R&D**. I focus on building end-to-end ML systems — from data engineering and model development to deployment and monitoring — emphasizing scalability, modular design, and reproducibility.
 
-Currently, I’m focused on designing and building **applied ML pipelines**, experimenting with deep learning architectures, and developing **end-to-end AI systems** that combine data engineering, model training, deployment, and monitoring. I emphasize **modular design, reproducibility, and experimentation-driven development** in every project.
-
-I’m currently an **AI Developer Intern at VISWAM AI**, where I contribute to building practical AI tools and research-driven prototypes.
-
-My work spans from **data acquisition and representation** to **model inference, evaluation, and observability** in ML systems. I value clean design, automation, and strong engineering foundations for applied research.
-
-Previously, I served as **PR Head for student initiatives**, where I led communications and outreach strategies.
-, where I led communications and outreach strategies.
+Currently, I’m working as an **AI Engineer Intern at Oscowl AI**, where I build **GenAI, RAG, and MLOps solutions**, translating research ideas into production-ready AI systems. Previously, I served as **PR Head** for student initiatives, leading communications and outreach strategies.
 
 ![](https://res.cloudinary.com/dauquyghy/image/upload/v1748776718/profile_wzisea.png)
 
